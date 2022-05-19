@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .murali{
+            background-image: url('https://media.istockphoto.com/photos/black-fabric-texture-for-background-and-design-beautiful-pattern-of-picture-id898843206?k=20&m=898843206&s=170667a&w=0&h=FRdx6t9-IGvHudTUvIUlEnEV25rFrf9qskz1stwhoQw=');
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100%;
+            height: 100%;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: 50% 30% 10% 10%;
+        }
+        input{
+            background-color: rgb(24, 20, 20);
+            color: white;
+        }
+
+        .head {
+            margin-left: 30px;
+            color: white;
+        }
+
+        .ins button {
+            height: 30px;
+            width: 230px;
+            margin-top: 20px;
+            font-size: 15px;
+            margin-left: 100px;
+            background-color: whites;
+        }
+
+        .img1 {
+            margin-top: 20px;
+            margin-left: 30px;
+        }
+
+        .body {
+            text-align: center;
+            color: white;
+            font-family: cursive;
+        }
+
+        .a {
+            display: grid;
+            grid-template-columns: 50% 50%;
+        }
+
+        .first {
+            margin-left: 400px;
+        }
+
+        .a input {
+            height: 20px;
+            width: 200px;
+        }
+
+        .email {
+            text-align: center;
+        }
+
+        .email input {
+            height: 20px;
+            width: 430px;
+            margin-right: 28px;
+        }
+        .xyz{
+            display: grid;
+            grid-template-columns: 35% 60%;
+        }
+        .bas input{
+            height: 20px;
+            width: 370px;
+            margin-left: 20px;
+        }
+        .opt{
+            margin-left: 400px;
+            border: 1px solid gray;
+            height: 25px;
+            width: 25px;
+            text-align: center;
+            padding-top: 1px;
+        }
+        .count input{
+            height: 20px;
+            width: 430px;
+            margin-left: 400px;
+        }
+        .rad{
+            margin-left: 400px; 
+            margin-top: 15px;
+            border: 2px solid white;
+            height: 13px;
+            width: 13px;
+            border-radius: 10px;
+        }
+        .grid12{
+            display: grid;
+            grid-template-columns: 35% 60%;
+            font-size: 17px;
+        }
+        .sub{
+            margin-left: 530px;
+
+        }
+        .sub{
+            border: 2px solid green;
+            height: 20px;
+            width: 160px;
+            margin-top: 10px;
+            background-color: green;
+        }
+        .end{
+            color: white;
+            margin-left: 50px;
+        }
+        .grid3{
+            display: grid;
+            grid-template-columns: 50% 50%;
+            color: white;
+            margin-left: 80px;
+           
+        }
+       .list1 ul li{
+           display: inline;
+           padding: 30px;
+           padding-top: 50px;
+       }
+       .exam{
+           display: grid;
+           grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10%;
+       }
+       .exam img{
+           border-radius: 4px;
+       }
+        
+        
+    </style>
+</head>
+
+<body>
+    <div class="murali">
+    <div class="grid">
+        <div class="head">
+            <h2>Ćａv卂ˡσx </h2>
+        </div>
+        <div class="ins">
+            <button>Connect to a wallet</button>
+        </div>
+        <div class="img1">
+            <img src="https://icons-for-free.com/download-icon-circle+music+sound+speaker+volume+icon-1320196704838854001_512.png" height="35px" width="35px">
+        </div>
+        <div class="img2">
+            <h1 style="color: white;">=</h1>
+        </div>
+    </div>
+
+    <div class="body">
+        <p style="font-size:25px ;">BE A</p>
+        <h1 >CAVALOXIAN!</h1>
+    </div><br><br><br>
+    <div class="a">
+        <div class="first">
+            <input type="text" placeholder="FIRST NAME">
+        </div>
+        <div class="last">
+            <input type="text" placeholder="LAST NAME">
+        </div>
+    </div><br><br>
+    <div class="email">
+        <input type="text" placeholder="EMAIL">
+    </div ><br><br>
+    <div class="xyz">
+        <div class="opt">
+            <img src="https://flagman.ie/flags/wp-content/uploads/2015/10/India-Flag-600x360.png" height="20px" width="20px">
+    </div>
+        <div class="bas">
+            <input type="text" placeholder="91+">
+        </div>
+    </div><br><br>
+    <div class="count">
+        <input type="text" placeholder="COUNTRYS">
+    </div><br><br>
+    <div class="grid12">
+    <div class="rad">
+</div>
+<div class="line">
+    <p style="color: white;">I AGREE TO THE & CONDITIONS <span style="color: green;"> T&C</span></p>
+</div>
+</div>
+<div class="sub">
+<button style="height: 30px; width:170px; background-color: green; color: white;">SUBMIT</button>
+</div><br><br>
+<div class="grid3">
+    <div class="raju">
+<h1>Į𝕟vＥｓ丅</h1>
+<h3 style="margin-left:50px ;">IN</h3>
+<h1 style="margin-left:70px ;"> ᖴᑌTᑌᖇE</h1>
+</div>
+<div class="list1">
+<ul >
+    <li>Buy</li>
+    <li>About</li>
+    <li>Terms</li>
+    <li>Contact</li><br><br><br>
+    <div class="exam">
+        <div class="so1">
+    <img src="https://cdn.pixabay.com/photo/2018/11/13/21/44/instagram-3814059_1280.png" height="30px" width="30px">
+</div>
+<div class="so2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmu3ud2V7vIA26rp2DiQZtgANrL73ULesKA&usqp=CAU" height="30px" width="30px">
+</div>
+<div class="so3">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaqGuTYBO4PyhK3ICE3VpshH6gxGh99vGung&usqp=CAU" height="30px" width="30px">
+</div>
+<div class="so4">
+    <img src="https://png.pngtree.com/png-vector/20190830/ourlarge/pngtree-linked-in-icon-design-vector-png-image_1709815.jpg" height="30px" width="30px">
+</div>
+<div class="so5">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE35kppAbyPgjPOElwbuxH3S96F-gMkXUZchUmUG-CJ1wzS82gEFtd4QOG8wPqXS9rCrM&usqp=CAU" height="30px" width="30px">
+</div>
+<div class="so6">
+    <img src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" height="30px" width="30px">
+</div>
+<div class="so7">
+    <img src="https://thumbs.dreamstime.com/b/high-resolution-image-black-white-instagram-icon-high-resolution-image-black-white-instagram-icon-web-printing-purpose-172342399.jpg" height="30px" width="30px">
+</div>
+<div class="so8">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGgSf1H9uDoV7OGKVEtEAvkSJ6_CMGujeVA&usqp=CAU" height="30px" width="30px">
+</div>
+</div>
+</ul>
+</div>
+</div>
+</body>
+</html>
